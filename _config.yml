@@ -16,3 +16,13 @@ instagram_username: garlicsoffritto
 theme: minima
 plugins:
   - jekyll-feed
+
+minima:
+  social_links: [] # if you use social
+  navigation:
+    - title: "Home"
+      url: "/"
+    - title: "Recipes"
+      url: "/recipes/"
+    - title: "About"
+      url: "/about/"
