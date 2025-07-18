@@ -5,6 +5,7 @@ date created: 2025-07-17
 categories:
 tags: [carbonara, pasta, italian, rome]
 image: /assets/images/carbonara.png
+permalink: /authentic-carbonara-sauce/
 ---
 
 ![Carbonara](/assets/images/carbonara.png)

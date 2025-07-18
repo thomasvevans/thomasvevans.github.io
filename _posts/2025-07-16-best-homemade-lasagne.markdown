@@ -5,6 +5,7 @@ date created: 2025-07-16
 categories:
 tags:
 image: /assets/images/lasagne.png
+permalink: /best-homemade-lasagne/
 ---
 
 	

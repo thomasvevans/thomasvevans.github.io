@@ -5,6 +5,7 @@ date created: 2025-07-17
 categories:
 tags: [fresh pasta, penne, homemade, italian]
 image: /assets/images/homemade-penne.png
+permalink: /homemade-penne/
 ---
 
 ![Homemade Penne](/assets/images/homemade-penne.png)

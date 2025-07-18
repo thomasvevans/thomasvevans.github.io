@@ -5,6 +5,7 @@ date created: 2025-07-17
 categories:
 tags: [risotto, spinach, italian, vegetarian]
 image: /assets/images/spinach-risotto.png 
+permalink: /creamy-spinach-risotto/
 ---
 
 ![Spinach Risotto](/assets/images/spinach-risotto.png)
