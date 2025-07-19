@@ -6,7 +6,6 @@ categories:
 tags: [risotto, spinach, italian, vegetarian]
 image: /assets/images/spinach-risotto.png 
 permalink: /creamy-spinach-risotto/
-image: /assets/images/spinach-risotto.png
 ---
 
 _A creamy, vibrant green risotto made with fresh spinach, arborio rice, and a touch of Parmigiano. Elegant enough for guests, comforting enough for a quiet night in._

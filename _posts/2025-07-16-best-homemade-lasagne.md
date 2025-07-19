@@ -6,8 +6,6 @@ categories:
 tags:
 image: /assets/images/lasagne.png
 permalink: /best-homemade-lasagne/
-image: /assets/images/lasagne.png
-
 ---
 
 _Layers of rich ragù, creamy béchamel, and silky pasta sheets — this classic Italian lasagne brings the warmth of a Sunday lunch in Emilia-Romagna straight to your kitchen._
