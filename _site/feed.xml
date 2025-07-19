@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.4.1">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2025-07-18T16:35:25+01:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Garlic Soffritto</title><subtitle>Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description.
+</subtitle><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><entry><title type="html">Crispy Arancini (Sicilian Stuffed Rice Balls)</title><link href="http://localhost:4000/crispy-arancini/" rel="alternate" type="text/html" title="Crispy Arancini (Sicilian Stuffed Rice Balls)" /><published>2025-07-17T00:00:00+01:00</published><updated>2025-07-17T00:00:00+01:00</updated><id>http://localhost:4000/arancini</id><content type="html" xml:base="http://localhost:4000/crispy-arancini/"><![CDATA[<p><em>Golden, crispy, and filled with savoury ragu and gooey mozzarella — arancini are the ultimate Sicilian street food snack.</em></p>
+
+<hr />
+
+<h2 id="-ingredients">📝 Ingredients</h2>
+
+<h3 id="for-the-rice">For the Rice:</h3>
+<ul>
+  <li>1 tbsp olive oil</li>
+  <li>1 small onion, diced</li>
+  <li>300g (1½ cups) arborio or carnaroli rice</li>
+  <li>750ml (3 cups) chicken or vegetable broth</li>
+  <li>Pinch of saffron (optional)</li>
+  <li>50g (¼ cup) grated Parmigiano</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h3 id="for-the-filling">For the Filling:</h3>
+<ul>
+  <li>150g (5 oz) meat ragù (leftover works great)</li>
+  <li>80g (3 oz) mozzarella, diced</li>
+</ul>
+
+<h3 id="for-breading">For Breading:</h3>
+<ul>
+  <li>Flour</li>
+  <li>2 eggs, beaten</li>
+  <li>Breadcrumbs</li>
+  <li>Vegetable oil (for frying)</li>
+</ul>
+
+<hr />
+
+<h2 id="-instructions">👩‍🍳 Instructions</h2>
+
+<h3 id="step-1-cook-the-rice">Step 1: Cook the Rice</h3>
+<ol>
+  <li>In a saucepan, sauté onion in olive oil until soft.</li>
+  <li>Add rice and toast for 2 minutes.</li>
+  <li>Slowly add hot broth, stirring, until rice is tender and sticky.</li>
+  <li>Stir in saffron (if using), Parmigiano, and salt. Let cool completely.</li>
+</ol>
+
+<h3 id="step-2-assemble-the-arancini">Step 2: Assemble the Arancini</h3>
+<ol>
+  <li>With damp hands, take a spoonful of rice and flatten it.</li>
+  <li>Place a bit of ragù and mozzarella in the centre.</li>
+  <li>Enclose filling with more rice and shape into a ball.</li>
+</ol>
+
+<h3 id="step-3-bread-and-fry">Step 3: Bread and Fry</h3>
+<ol>
+  <li>Roll each ball in flour, then egg, then breadcrumbs.</li>
+  <li>Heat oil to 170°C / 340°F. Fry until golden and crispy (about 3–4 mins each).</li>
+  <li>Drain on paper towels.</li>
+</ol>
+
+<hr />
+
+<h2 id="-serving-suggestion">🍷 Serving Suggestion</h2>
+
+<p>Serve warm as a snack or appetiser with a glass of <strong>Nero d’Avola</strong> or a chilled <strong>Rosé</strong>.</p>
+
+<hr />
+
+<h2 id="-chefs-tip">🌟 Chef’s Tip</h2>
+
+<p>Chill the shaped arancini before frying — they’ll hold together better and fry more evenly.</p>
+
+<hr />
+
+<p><strong>Buon appetito!</strong> 🧆<br />
+Show us your arancini! Tag <a href="https://instagram.com/garlicsoffritto">@garlicsoffritto</a>.</p>]]></content><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><category term="arancini" /><category term="sicilian" /><category term="street food" /><category term="rice" /><summary type="html"><![CDATA[Golden, crispy, and filled with savoury ragu and gooey mozzarella — arancini are the ultimate Sicilian street food snack.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/arancini.png" /><media:content medium="image" url="http://localhost:4000/assets/images/arancini.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Authentic Carbonara Sauce (Spaghetti alla Carbonara)</title><link href="http://localhost:4000/authentic-carbonara-sauce/" rel="alternate" type="text/html" title="Authentic Carbonara Sauce (Spaghetti alla Carbonara)" /><published>2025-07-17T00:00:00+01:00</published><updated>2025-07-17T00:00:00+01:00</updated><id>http://localhost:4000/carbonara-sauce</id><content type="html" xml:base="http://localhost:4000/authentic-carbonara-sauce/"><![CDATA[<p><em>A true Roman classic — creamy without cream, rich with egg, pecorino, and guanciale. Carbonara is the soul of simplicity and indulgence.</em></p>
+
+<hr />
+
+<h2 id="-ingredients">📝 Ingredients</h2>
+
+<ul>
+  <li>400g (14 oz) spaghetti</li>
+  <li>150g (5 oz) guanciale (or pancetta), cut into strips</li>
+  <li>3 large egg yolks + 1 whole egg</li>
+  <li>50g (½ cup) grated Pecorino Romano cheese</li>
+  <li>Freshly ground black pepper</li>
+  <li>Salt (for pasta water only)</li>
+</ul>
+
+<hr />
+
+<h2 id="-instructions">👩‍🍳 Instructions</h2>
+
+<h3 id="step-1-cook-the-pasta">Step 1: Cook the Pasta</h3>
+<ol>
+  <li>Bring a large pot of salted water to a boil. Add spaghetti and cook until al dente.</li>
+  <li>Reserve ½ cup of pasta water before draining.</li>
+</ol>
+
+<h3 id="step-2-prepare-the-sauce">Step 2: Prepare the Sauce</h3>
+<ol>
+  <li>While pasta cooks, beat the eggs and yolks in a bowl.</li>
+  <li>Add Pecorino and a generous amount of freshly ground black pepper. Mix until smooth.</li>
+</ol>
+
+<h3 id="step-3-cook-the-guanciale">Step 3: Cook the Guanciale</h3>
+<ol>
+  <li>In a large skillet, cook guanciale over medium heat until crispy and golden.</li>
+  <li>Remove from heat. Add drained pasta directly to the pan with guanciale.</li>
+</ol>
+
+<h3 id="step-4-combine">Step 4: Combine</h3>
+<ol>
+  <li>Off the heat, pour the egg mixture over the hot pasta. Toss quickly and vigorously to coat without scrambling.</li>
+  <li>Add reserved pasta water a little at a time until the sauce becomes silky.</li>
+</ol>
+
+<hr />
+
+<h2 id="️-serving-suggestion">🍽️ Serving Suggestion</h2>
+
+<p>Serve immediately with extra Pecorino and cracked black pepper. Pair with a glass of <strong>Frascati</strong> or <strong>Trebbiano</strong>.</p>
+
+<hr />
+
+<h2 id="-chefs-tip">🧀 Chef’s Tip</h2>
+
+<p>Never add cream — the creaminess comes from the eggs and cheese. Use <strong>guanciale</strong> if possible for the most authentic Roman flavour.</p>
+
+<hr />
+
+<p><strong>Buon appetito!</strong> 🇮🇹<br />
+Tried it? Share your Carbonara on Instagram and tag <a href="https://instagram.com/garlicsoffritto">@garlicsoffritto</a>.</p>]]></content><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><category term="carbonara" /><category term="pasta" /><category term="italian" /><category term="rome" /><summary type="html"><![CDATA[A true Roman classic — creamy without cream, rich with egg, pecorino, and guanciale. Carbonara is the soul of simplicity and indulgence.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/carbonara.png" /><media:content medium="image" url="http://localhost:4000/assets/images/carbonara.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Homemade Penne Pasta (Penne Fatte in Casa)</title><link href="http://localhost:4000/homemade-penne/" rel="alternate" type="text/html" title="Homemade Penne Pasta (Penne Fatte in Casa)" /><published>2025-07-17T00:00:00+01:00</published><updated>2025-07-17T00:00:00+01:00</updated><id>http://localhost:4000/homemade-penne</id><content type="html" xml:base="http://localhost:4000/homemade-penne/"><![CDATA[<p><em>Fresh penne pasta with that perfect bite — made with just flour, eggs, and a bit of love. Once you try it, you’ll never go back.</em></p>
+
+<hr />
+
+<h2 id="-ingredients">📝 Ingredients</h2>
+
+<ul>
+  <li>400g (3¼ cups) semolina flour or 00 flour</li>
+  <li>4 large eggs</li>
+  <li>Pinch of salt</li>
+  <li><em>Optional:</em> a splash of olive oil</li>
+</ul>
+
+<hr />
+
+<h2 id="-instructions">👩‍🍳 Instructions</h2>
+
+<h3 id="step-1-make-the-dough">Step 1: Make the Dough</h3>
+<ol>
+  <li>On a clean surface or in a large bowl, mound the flour and create a well.</li>
+  <li>Crack the eggs into the well, add a pinch of salt.</li>
+  <li>Gradually incorporate flour into the eggs with a fork, then knead into a dough.</li>
+  <li>Knead for 10 minutes until smooth and elastic. Wrap and let rest 30 minutes.</li>
+</ol>
+
+<h3 id="step-2-shape-the-penne">Step 2: Shape the Penne</h3>
+<ol>
+  <li>Roll the dough out into sheets (2–3 mm thick).</li>
+  <li>Cut into small rectangles, roll each around a wooden dowel or pasta tool to shape into penne tubes.</li>
+  <li>Let dry on a floured surface or pasta rack.</li>
+</ol>
+
+<p><em>Alternatively:</em> Use a pasta extruder with a penne die for quicker, uniform results.</p>
+
+<hr />
+
+<h2 id="-serving-suggestion">🫒 Serving Suggestion</h2>
+
+<p>Toss with your favourite sauce — <strong>arrabbiata</strong>, <strong>pesto</strong>, or <strong>carbonara</strong>. Pairs well with a robust <strong>Montepulciano d’Abruzzo</strong>.</p>
+
+<hr />
+
+<h2 id="-chefs-tip">✨ Chef’s Tip</h2>
+
+<p>Use semolina for a firmer bite and better sauce grip. Let pasta dry for 15–20 minutes before cooking to help it hold shape.</p>
+
+<hr />
+
+<p><strong>Buon appetito!</strong> 🍝<br />
+Making pasta from scratch? Show us your penne magic <a href="https://instagram.com/garlicsoffritto">@garlicsoffritto</a>!</p>]]></content><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><category term="fresh pasta" /><category term="penne" /><category term="homemade" /><category term="italian" /><summary type="html"><![CDATA[Fresh penne pasta with that perfect bite — made with just flour, eggs, and a bit of love. Once you try it, you’ll never go back.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/homemade-penne.png" /><media:content medium="image" url="http://localhost:4000/assets/images/homemade-penne.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">The Best Homemade Lasagne (Lasagna alla Bolognese)</title><link href="http://localhost:4000/best-homemade-lasagne/" rel="alternate" type="text/html" title="The Best Homemade Lasagne (Lasagna alla Bolognese)" /><published>2025-07-16T00:00:00+01:00</published><updated>2025-07-16T00:00:00+01:00</updated><id>http://localhost:4000/best-homemade-lasagne</id><content type="html" xml:base="http://localhost:4000/best-homemade-lasagne/"><![CDATA[<p><em>Layers of rich ragù, creamy béchamel, and silky pasta sheets — this classic Italian lasagne brings the warmth of a Sunday lunch in Emilia-Romagna straight to your kitchen.</em></p>
+
+<hr />
+
+<h3 id="-ingredients">📝 Ingredients</h3>
+
+<h4 id="for-the-ragù-meat-sauce">For the Ragù (Meat Sauce):</h4>
+<ul>
+  <li>2 tbsp olive oil</li>
+  <li>1 small onion, finely diced</li>
+  <li>1 small carrot, finely diced</li>
+  <li>1 celery stalk, finely diced</li>
+  <li>2 cloves garlic, minced</li>
+  <li>250g (½ lb) ground beef</li>
+  <li>250g (½ lb) ground pork</li>
+  <li>100ml (⅓ cup) dry red wine</li>
+  <li>400g (14 oz) canned San Marzano tomatoes, crushed</li>
+  <li>2 tbsp tomato paste</li>
+  <li>Salt and pepper to taste</li>
+  <li>A few basil leaves or a bay leaf</li>
+  <li><em>Optional:</em> a splash of milk (to soften the acidity)</li>
+</ul>
+
+<h4 id="for-the-béchamel-sauce">For the Béchamel Sauce:</h4>
+<ul>
+  <li>4 tbsp (60g) unsalted butter</li>
+  <li>4 tbsp (30g) all-purpose flour</li>
+  <li>3 cups (700ml) whole milk, warmed</li>
+  <li>Freshly grated nutmeg (just a pinch)</li>
+  <li>Salt to taste</li>
+</ul>
+
+<h4 id="other">Other:</h4>
+<ul>
+  <li>Fresh lasagne sheets (or dried, pre-cooked ones)</li>
+  <li>100g (1 cup) grated Parmigiano-Reggiano cheese</li>
+  <li>Butter (for greasing and dotting on top)</li>
+</ul>
+
+<hr />
+
+<h3 id="-instructions">👩‍🍳 Instructions</h3>
+
+<h4 id="step-1-make-the-ragù">Step 1: Make the Ragù</h4>
+<ol>
+  <li>Heat olive oil in a heavy-bottomed pot.</li>
+  <li>Add onion, carrot, and celery. Sauté on medium-low until soft (about 8 minutes).</li>
+  <li>Stir in garlic and cook briefly until fragrant.</li>
+  <li>Add beef and pork. Brown the meat, breaking it up with a wooden spoon.</li>
+  <li>Pour in red wine and let it reduce until mostly evaporated.</li>
+  <li>Add crushed tomatoes and tomato paste. Stir in basil or bay leaf.</li>
+  <li>Simmer gently, uncovered, for at least 1½ hours. Add a splash of milk toward the end to balance acidity.</li>
+</ol>
+
+<h4 id="step-2-prepare-the-béchamel">Step 2: Prepare the Béchamel</h4>
+<ol>
+  <li>In a saucepan, melt butter over medium heat.</li>
+  <li>Whisk in flour to form a smooth roux. Cook for 1–2 minutes, stirring constantly.</li>
+  <li>Gradually whisk in the warm milk. Continue whisking until thick and smooth.</li>
+  <li>Season with salt and a pinch of nutmeg.</li>
+</ol>
+
+<h4 id="step-3-assemble-the-lasagne">Step 3: Assemble the Lasagne</h4>
+<ol>
+  <li>Preheat oven to 180°C / 350°F.</li>
+  <li>Lightly grease a baking dish with butter.</li>
+  <li>Start layering: a spoon of ragù, a layer of pasta, ragù, béchamel, a sprinkle of Parmigiano. Repeat for 4–5 layers.</li>
+  <li>Finish with béchamel and extra Parmigiano on top. Dot with a few small pieces of butter.</li>
+</ol>
+
+<h4 id="step-4-bake">Step 4: Bake</h4>
+<ul>
+  <li>Cover loosely with foil and bake for 25 minutes.</li>
+  <li>Uncover and bake another 15–20 minutes until bubbling and golden.</li>
+  <li>Let rest for at least 15 minutes before serving.</li>
+</ul>
+
+<hr />
+
+<h3 id="-serving-suggestion">🍷 Serving Suggestion</h3>
+<p>Serve with a simple arugula salad and a glass of <strong>Chianti Classico</strong> or <strong>Barbera</strong>. Lasagne is even better the next day!</p>
+
+<hr />
+
+<h3 id="-chefs-tip">🤌 Chef’s Tip</h3>
+<p>For an extra-authentic touch, use <strong>fresh egg pasta</strong> sheets and simmer your ragù for 3+ hours — just like in Bologna.</p>
+
+<hr />
+
+<p><strong>Buon appetito!</strong> 🇮🇹<br />
+Have you tried this recipe? Tag us on Instagram <a href="https://instagram.com/garlicsoffritto">@garlicsoffritto</a> and share your results!</p>]]></content><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><summary type="html"><![CDATA[Layers of rich ragù, creamy béchamel, and silky pasta sheets — this classic Italian lasagne brings the warmth of a Sunday lunch in Emilia-Romagna straight to your kitchen.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/lasagne.png" /><media:content medium="image" url="http://localhost:4000/assets/images/lasagne.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Creamy Spinach Risotto (Risotto agli Spinaci)</title><link href="http://localhost:4000/creamy-spinach-risotto/" rel="alternate" type="text/html" title="Creamy Spinach Risotto (Risotto agli Spinaci)" /><published>2025-07-16T00:00:00+01:00</published><updated>2025-07-16T00:00:00+01:00</updated><id>http://localhost:4000/spinach-risotto</id><content type="html" xml:base="http://localhost:4000/creamy-spinach-risotto/"><![CDATA[<p><em>A creamy, vibrant green risotto made with fresh spinach, arborio rice, and a touch of Parmigiano. Elegant enough for guests, comforting enough for a quiet night in.</em></p>
+
+<hr />
+
+<h2 id="-ingredients">📝 Ingredients</h2>
+
+<ul>
+  <li>1 tbsp olive oil</li>
+  <li>2 tbsp unsalted butter</li>
+  <li>1 small onion, finely diced</li>
+  <li>1 clove garlic, minced</li>
+  <li>1 cup arborio rice</li>
+  <li>1/3 cup dry white wine</li>
+  <li>1.2L (5 cups) vegetable or chicken broth, kept warm</li>
+  <li>150g (5 oz) fresh spinach leaves</li>
+  <li>30g (¼ cup) grated Parmigiano-Reggiano</li>
+  <li>Zest of ½ lemon (optional, but recommended)</li>
+  <li>Salt and black pepper to taste</li>
+</ul>
+
+<hr />
+
+<h2 id="-instructions">👩‍🍳 Instructions</h2>
+
+<h3 id="step-1-blanch-the-spinach">Step 1: Blanch the Spinach</h3>
+<ol>
+  <li>Bring a small pot of water to boil. Add the spinach and cook for 30–40 seconds until wilted.</li>
+  <li>Drain and immediately plunge into ice water to retain color.</li>
+  <li>Squeeze out excess water and purée in a blender or food processor until smooth. Set aside.</li>
+</ol>
+
+<h3 id="step-2-cook-the-risotto">Step 2: Cook the Risotto</h3>
+<ol>
+  <li>In a large saucepan, heat olive oil and 1 tbsp butter over medium heat.</li>
+  <li>Add onion and cook until translucent (about 4–5 minutes).</li>
+  <li>Stir in garlic, then add the rice. Toast it for 1–2 minutes until slightly translucent at the edges.</li>
+  <li>Pour in white wine and stir until absorbed.</li>
+  <li>Begin adding the warm broth, one ladle at a time, stirring constantly and allowing each addition to be absorbed before adding more.</li>
+  <li>Continue until the rice is tender but slightly al dente, about 18–20 minutes.</li>
+</ol>
+
+<h3 id="step-3-finish-the-dish">Step 3: Finish the Dish</h3>
+<ol>
+  <li>Stir in the spinach purée and remaining butter.</li>
+  <li>Add Parmigiano and lemon zest, stirring to combine.</li>
+  <li>Season to taste with salt and black pepper.</li>
+</ol>
+
+<hr />
+
+<h2 id="️-serving-suggestion">🍽️ Serving Suggestion</h2>
+
+<p>Top with a few shavings of Parmigiano and a drizzle of extra virgin olive oil. Pair with a crisp white wine like <strong>Verdicchio</strong> or <strong>Pinot Grigio</strong>.</p>
+
+<hr />
+
+<h2 id="-chefs-tip">🌿 Chef’s Tip</h2>
+
+<p>For an even silkier finish, blend a spoon of mascarpone into the risotto just before serving. It adds richness without overpowering the spinach.</p>
+
+<hr />
+
+<p><strong>Buon appetito!</strong> 🌱<br />
+Let us know how your risotto turned out — tag us <a href="https://instagram.com/garlicsoffritto">@garlicsoffritto</a> on Instagram!</p>]]></content><author><name>{&quot;name&quot; =&gt; nil, &quot;email&quot; =&gt; &quot;contact@garlicsoffritto.com&quot;}</name><email>contact@garlicsoffritto.com</email></author><category term="risotto" /><category term="spinach" /><category term="italian" /><category term="vegetarian" /><summary type="html"><![CDATA[A creamy, vibrant green risotto made with fresh spinach, arborio rice, and a touch of Parmigiano. Elegant enough for guests, comforting enough for a quiet night in.]]></summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="http://localhost:4000/assets/images/spinach-risotto.png" /><media:content medium="image" url="http://localhost:4000/assets/images/spinach-risotto.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry></feed>

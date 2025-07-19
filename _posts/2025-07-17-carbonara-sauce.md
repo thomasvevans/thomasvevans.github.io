@@ -6,9 +6,8 @@ categories:
 tags: [carbonara, pasta, italian, rome]
 image: /assets/images/carbonara.png
 permalink: /authentic-carbonara-sauce/
+image: /assets/images/carbonara.png
 ---
-
-![Carbonara](/assets/images/carbonara.png)
 
 _A true Roman classic — creamy without cream, rich with egg, pecorino, and guanciale. Carbonara is the soul of simplicity and indulgence._
 

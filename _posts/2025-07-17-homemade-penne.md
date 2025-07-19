@@ -6,9 +6,8 @@ categories:
 tags: [fresh pasta, penne, homemade, italian]
 image: /assets/images/homemade-penne.png
 permalink: /homemade-penne/
+image: /assets/images/homemade-penne.png
 ---
-
-![Homemade Penne](/assets/images/homemade-penne.png)
 
 _Fresh penne pasta with that perfect bite — made with just flour, eggs, and a bit of love. Once you try it, you’ll never go back._
 

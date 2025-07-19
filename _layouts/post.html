@@ -33,6 +33,7 @@ layout: base
   </header>
 
   <div class="post-content e-content" itemprop="articleBody">
+    <img src="{{ page.image | relative_url }}" alt="{{ page.title | escape }}" class="featured-image-post"></img>
     {{ content }}
   </div>
 
