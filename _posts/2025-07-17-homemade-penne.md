@@ -4,7 +4,7 @@ title: "Homemade Penne Pasta (Penne Fatte in Casa)"
 date created: 2025-07-17
 categories:
 tags: [fresh pasta, penne, homemade, italian]
-image: /assets/images/homemade-penne.png
+image: 
 permalink: /homemade-penne/
 ---
 

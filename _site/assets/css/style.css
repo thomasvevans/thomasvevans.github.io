@@ -1011,6 +1011,15 @@ table td {
   margin-bottom: 1.5rem;
 }
 
+.blog-roll-image {
+  width: 75px;
+  height: auto;
+  object-fit: cover;
+  float: left;
+  margin: 0 auto 30px;
+  margin-right: 1.5rem;
+}
+
 /**
  * Pagination navbar
  */

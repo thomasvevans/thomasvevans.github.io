@@ -4,7 +4,7 @@ title: "Authentic Carbonara Sauce (Spaghetti alla Carbonara)"
 date created: 2025-07-17
 categories:
 tags: [carbonara, pasta, italian, rome]
-image: /assets/images/carbonara.png
+image: 
 permalink: /authentic-carbonara-sauce/
 ---
 
