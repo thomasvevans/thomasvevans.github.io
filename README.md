@@ -10,4 +10,6 @@
 
 [YouTube](https://www.youtube.com/@TomosManelocke)
 
+[LinkedIn](https://www.linkedin.com/in/tomosmanelocke/)
+
 [GitHub](https://github.com/tomosmanelocke)
