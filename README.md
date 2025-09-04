@@ -8,4 +8,6 @@
 
 [Soundcloud](https://soundcloud.com/tomosmanelocke)
 
+[YouTube](https://www.youtube.com/@TomosManelocke)
+
 [GitHub](https://github.com/tomosmanelocke)
