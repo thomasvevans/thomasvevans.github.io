@@ -10,6 +10,6 @@
 
 [YouTube](https://www.youtube.com/@TomosManelocke)
 
-[LinkedIn](https://www.linkedin.com/in/tomosmanelocke/)
+[LinkedIn](https://www.linkedin.com/in/thomasvevans/)
 
 [GitHub](https://github.com/tomosmanelocke)
